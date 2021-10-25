@@ -1,0 +1,24 @@
+p {
+    font-size: 3.5rem;
+    font-family: 'Titilium Web', Arial, Verdana, sans-serif;
+}
+
+#Capa1 {
+    background-color: white;
+}
+
+#Capa2 {
+    background-color: chartreuse;
+}
+
+#Capa3 {
+    background-color: tomato;
+}
+
+@media (min-width: 576px) {}
+
+@media (min-width: 768px) {}
+
+@media (min-width: 992px) {}
+
+@media (min-width: 1200px) {}
